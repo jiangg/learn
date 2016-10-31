@@ -1,0 +1,9 @@
+share_ptr<T> sp  
+unique_ptr<T> up
+p 
+*p
+p->men
+p.get()
+
+swap(p,q);
+p.swap(q)
